@@ -33,22 +33,8 @@ Besides that, I also know some German and Chinese.
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 <br/>
-<br/>
-<br/>
-## Connect with me:
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=mittalsam98">
-</a>
-<a href="https://github.com/mittalsam98?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
-## ❤ Stance and opinion
+# Stance and opinion
+
 I am a developer who knows the value of time, works hard, always delivers work on time, and proves myself with outstanding skills. I always believe that a project can be successful only when the client and developer trust each other, and I believe that a good developer must also have extensive knowledge.
 In the future, my skills will continue to be upgraded, and I will constantly strive to prepare to become the best developer.
-
-
-# buy-me-a-coffee
-
-Liked some of my work? Buy me a coffee (or more likely a beer)
-
-<a href="https://www.buymeacoffee.com/sachinm" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
