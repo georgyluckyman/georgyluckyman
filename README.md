@@ -42,6 +42,11 @@ Besides that, I also know some German and Chinese.
     <img src="https://komarev.com/ghpvc/?username=mittalsam98">
 </a>
 <a href="https://github.com/mittalsam98?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+## ❤ Stance and opinion
+I am a developer who knows the value of time, works hard, always delivers work on time, and proves myself with outstanding skills. I always believe that a project can be successful only when the client and developer trust each other, and I believe that a good developer must also have extensive knowledge.
+In the future, my skills will continue to be upgraded, and I will constantly strive to prepare to become the best developer.
+
+
 # buy-me-a-coffee
 
 Liked some of my work? Buy me a coffee (or more likely a beer)
