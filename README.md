@@ -32,20 +32,9 @@ Besides that, I also know some German and Chinese.
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
-
-
-<br/>
-
-
-## ✨ Top Languages Card
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mittalsam98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <br/>
 <br/>
-
-
+<br/>
 ## Connect with me:
 
 ## ❤ Views and Followers
@@ -53,8 +42,6 @@ Besides that, I also know some German and Chinese.
     <img src="https://komarev.com/ghpvc/?username=mittalsam98">
 </a>
 <a href="https://github.com/mittalsam98?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
 # buy-me-a-coffee
 
 Liked some of my work? Buy me a coffee (or more likely a beer)
